@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **robin1001/robin1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**Hi everyone, This is Binbin Zhang, nice to meet you.**
+
+- 🔭 I'm a believer of open source and open science.
+- 🌱 I'm the creator of [WeNet](https://github.com/wenet-e2e/wenet), [WenetSpeech](http://wenet.org.cn/WenetSpeech/), and [WeNet Community](https://wenet.org.cn/).
+- 👯 I'm one of the designers and teachers of the open courses [WeNet in Action](https://edu.speechhome.com/p/t_pc/goods_pc_detail/goods_detail/course_27jU7hlWuYqO7ymQ6zYO2yIPEHC?app_id=appzxw56sw27444) and [Automatic Speech Recognition](https://www.shenlanxueyuan.com/course/245).
+- 🤔 My research interests include speech, deep learning frameworks and compilers, and computer architecture.
+
