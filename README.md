@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 
 **Hi everyone, This is Binbin Zhang, nice to meet you.**
 
-- 🔭 I'm a believer of open source and open science.
-- 🌱 I'm the creator of [WeNet](https://github.com/wenet-e2e/wenet), [WenetSpeech](http://wenet.org.cn/WenetSpeech/), and [WeNet Community](https://wenet.org.cn/).
-- 👯 I'm one of the designers and teachers of the open courses [WeNet in Action](https://edu.speechhome.com/p/t_pc/goods_pc_detail/goods_detail/course_27jU7hlWuYqO7ymQ6zYO2yIPEHC?app_id=appzxw56sw27444) and [Automatic Speech Recognition](https://www.shenlanxueyuan.com/course/245).
-- 🤔 My research interests include speech, deep learning frameworks and compilers, and computer architecture.
+- 🔭 I'm a believer of open source. I'm the creator of [WeNet Community](https://wenet.org.cn/) which is an open source community. Here are the open source projects and courses that I created:
+  - [WeNet](https://github.com/wenet-e2e/wenet), a popular, production first and production ready end-to-end speech recognition toolkit.
+  - [WenetSpeech](http://wenet.org.cn/WenetSpeech/), a 10000+ hours open source multi-domain chinese corpus for speech recognition.
+  - [WeNet in Action](https://edu.speechhome.com/p/t_pc/goods_pc_detail/goods_detail/course_27jU7hlWuYqO7ymQ6zYO2yIPEHC?app_id=appzxw56sw27444), an open course on end-to-end speech recognition based on WeNet(co-creator).
+  - [Automatic Speech Recognition](https://www.shenlanxueyuan.com/course/245), an open course on classic speech recognition(co-creator).
+- 🌱 My interests include speech, deep learning frameworks and compilers, and computer architecture.
 
